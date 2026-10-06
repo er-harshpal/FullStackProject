@@ -1,0 +1,23 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/er-harshpal/FullStackProject#readme",
+  "bugs": {
+    "url": "https://github.com/er-harshpal/FullStackProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/er-harshpal/FullStackProject.git"
+  },
+  "license": "ISC",
+  "author": "Harsh Pal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
