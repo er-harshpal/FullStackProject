@@ -273,8 +273,7 @@ This project provides practical experience with:
 
 Software Engineer | Full-Stack Development | Cloud Engineering
 
-* GitHub: [Your GitHub Profile](https://github.com/)
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+* GitHub: [Your GitHub Profile](https://github.com/er-harshpal/)
 
 ## License
 
